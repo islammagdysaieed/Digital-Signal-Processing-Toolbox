@@ -1,0 +1,7 @@
+D:\Academy\SC\Current Year\Second Term\Signal Processing\Labs\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.dll
+D:\Academy\SC\Current Year\Second Term\Signal Processing\Labs\DSPToolbox\DSPComponents\bin\Debug\DSPComponents.pdb
+D:\Academy\SC\Current Year\Second Term\Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.dll
+D:\Academy\SC\Current Year\Second Term\Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\DSPComponents.pdb
+D:\Academy\SC\Current Year\Second Term\Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csprojResolveAssemblyReference.cache
+D:\Academy\SC\Current Year\Second Term\Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\Interop.MLApp.dll
+D:\Academy\SC\Current Year\Second Term\Signal Processing\Labs\DSPToolbox\DSPComponents\obj\Debug\DSPAlgorithms.csproj.ResolveComReference.cache
